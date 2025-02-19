@@ -13,7 +13,7 @@ congratulationsMessage.style.color = 'green';
 congratulationsMessage.style.textAlign='center';
 document.getElementById('card-container').appendChild(congratulationsMessage);
 
-const imageBaseURL = "https://raw.githubusercontent.com/tuprak100/Heriplerni_Qoshup_Oqush3/main/images/";
+const imageBaseURL = "https://raw.githubusercontent.com/tuprak100/Heriplerni_Qoshup_Oqush6/main/images/";
 let images = [];
 let originalImages = []; // Store the original images here
 const numRows = 4;
